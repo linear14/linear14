@@ -13,3 +13,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linear14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=linear114)](https://solved.ac/linear114)
 
+<b>더 자세한 이야기가 궁금하다면</b> → [여기를 클릭](https://github.com/linear14/My-Info)
+

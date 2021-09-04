@@ -10,5 +10,6 @@
 <img src="https://img.shields.io/badge/-Slack-%234A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/-Zeplin-%23fdca2f?style=flat"/>
 
 ## 🤔 About Me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linear14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=linear114)](https://solved.ac/linear114)
 

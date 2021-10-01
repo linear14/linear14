@@ -1,6 +1,6 @@
 ## Hi there, I am Dong-hyun 🙋🏻‍♂️</h2>
 
-[![Tistory Badge](https://img.shields.io/badge/-Tistory-red?link=https://dongdong-develop.tistory.com/)](https://dongdong-develop.tistory.com/) [![Velog Badge](https://img.shields.io/badge/-Velog-red?link=https://velog.io/@dev_2dong/)](https://velog.io/@dev_2dong/) <a href="mailto:linear14@naver.com"><img src="https://img.shields.io/badge/E--mail-linear14%40naver.com-brightgreen?link=linear14@naver.com"/></a><br>
+[![Velog Badge](https://img.shields.io/badge/-Velog-red?link=https://velog.io/@dev_2dong/)](https://velog.io/@dev_2dong/) <a href="mailto:linear14@naver.com"><img src="https://img.shields.io/badge/E--mail-linear14%40naver.com-brightgreen?link=linear14@naver.com"/></a><br>
 
 `UI/UX`구현에 관심이 많은 개발자 이동현입니다.
 

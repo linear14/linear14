@@ -49,14 +49,14 @@
 | 활동 기간 | 활동명 | 활동 내용 | 비고 |
 |:------:|:---:|:---:|:---:|
 | 22.02 ~ 진행 중 | IT 개발 동아리 Fun.D 7기 | | 웹 FE |
-| 21.07 ~ 21.12 | 네이버 부스트캠프 웹·모바일 6기 챌린지&멤버십 | Computer Science, JS/TS/React 학습, 스프린트 단위 애자일 방식의 협업 | 웹 (풀스택 과정) |
+| 21.07 ~ 21.12 | 네이버 부스트캠프 웹·모바일 6기<br>챌린지&멤버십 | Computer Science, JS/TS/React 학습,<br>스프린트 단위 애자일 방식의 협업 | 웹 (풀스택 과정) |
 | 20.07 ~ 20.10 | IT 개발 동아리 Fun.D 5기 | 타직군과 협업 경험, MVVM 아키텍처 학습 | 안드로이드 |
 
 ### 🚩 Project Experience
 | 프로젝트 기간 | 프로젝트명(Repository) | 설명 | 개인 / 팀 | 비고 |
 | :------: | :---: | :---: | :---: | :---: |
-| 22.02 ~ 진행 중 | 마이칵테일 | 칵테일 레시피 공유 및 재료 관리 서비스 | 팀 (기획자, 디자이너) | 개발 중 |
+| 22.02 ~ 진행 중 | 마이칵테일 | 칵테일 레시피 공유 및 재료 관리 서비스 | 팀<br>(기획자, 디자이너) | 개발 중 |
 | 21.10 ~ 21.12 | [JDevBook](https://github.com/linear14/WEB13-JDevBook) | 페이스북 클론 프로젝트 | 팀 | 배포 중단 |
-| 20.11 ~ 21.07 | [빛담](https://github.com/linear14/BDProject) | 빛의 밝기를 소재로 감정을 기록하는 일기장 | 팀 (디자이너) | [시연 영상](https://www.youtube.com/watch?v=UzTgOJHKg9k) |
-| 20.10 ~ 21.07 | Plie - 프로젝트 리스트 | 사이드 프로젝트 구인 플랫폼 | 팀 (디자이너) | [배포 링크](https://play.google.com/store/apps/details?id=org.fakedev.plie.release), [시연 영상](https://www.youtube.com/watch?v=bf61zHwT1x0) |
-| 20.07 ~ 20.10 | [Like Eat](https://github.com/linear14/LikeEat) | 지인들과의 맛집 공유 지도 | 팀 (기획자, 디자이너) | |
+| 20.11 ~ 21.07 | [빛담](https://github.com/linear14/BDProject) | 빛의 밝기를 소재로 감정을 기록하는 일기장 | 팀<br>(디자이너) | [시연 영상](https://www.youtube.com/watch?v=UzTgOJHKg9k) |
+| 20.10 ~ 21.07 | Plie 프로젝트 리스트 | 사이드 프로젝트 구인 플랫폼 | 팀<br>(디자이너) | [배포 링크](https://play.google.com/store/apps/details?id=org.fakedev.plie.release)<br>[시연 영상](https://www.youtube.com/watch?v=bf61zHwT1x0) |
+| 20.07 ~ 20.10 | [Like Eat](https://github.com/linear14/LikeEat) | 지인들과의 맛집 공유 지도 | 팀<br>(기획자, 디자이너) | |

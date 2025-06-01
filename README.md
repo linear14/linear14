@@ -14,7 +14,8 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/linear14/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <h2>Hi there, I am Dong-hyun Lee 🙋🏻‍♂️</h2>
   <p>I'm interested in writing understandable codes and improvement of UX</p>
-  
+
+  <!--
   <div>
     <a href="https://velog.io/@dev_2dong/">BLOG</a>
     <span>|</span>
@@ -22,6 +23,7 @@
     <span>|</span>
     <a href="https://rattle-eyelash-eaa.notion.site/a3771b6abf894b10acbdca70457e0031?v=507ae46b12b6446f8bde91faed2f09d8">PORTFOLIO</a>
   </div>
+  -->
   
   
 </div>

@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/linear14/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <h2>Hi there, I am Dong-hyun Lee 🙋🏻‍♂️</h2>
+  <h3>Hi there, I am Dong-hyun Lee 🙋🏻‍♂️</h3>
   <p>I'm interested in writing understandable codes and improvement of UX</p>
 
   <!--

@@ -11,7 +11,6 @@
 | 포트폴리오 | [Click Me](https://rattle-eyelash-eaa.notion.site/a3771b6abf894b10acbdca70457e0031?v=507ae46b12b6446f8bde91faed2f09d8) | -->
 
 <div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/linear14/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <h3>Hi there, I am Dong-hyun Lee 🙋🏻‍♂️</h3>
   <p>I'm interested in writing understandable codes and improvement of UX</p>
 
@@ -29,7 +28,7 @@
 </div>
 
 
-
+<!--
 ## 🛠 Tech 
 ### 🚩 Language
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Kotlin-%230095D5?logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-%23007396?logo=Java&logoColor=white"/> <br>
@@ -64,3 +63,4 @@
 | 20.11 ~ 21.07 | Android | [빛담](https://github.com/linear14/BDProject) | 빛의 밝기를 소재로 감정을 기록하는 일기장 | 팀 | [시연 영상](https://www.youtube.com/watch?v=UzTgOJHKg9k) |
 | 20.10 ~ 21.07 | Android | Plie 프로젝트 리스트 | 사이드 프로젝트 구인 플랫폼 | 팀 | [배포 링크](https://play.google.com/store/apps/details?id=org.fakedev.plie.release)<br>[시연 영상](https://www.youtube.com/watch?v=bf61zHwT1x0) |
 | 20.07 ~ 20.10 | Android | [Like Eat](https://github.com/linear14/LikeEat) | 지인들과의 맛집 공유 지도 | 팀 | |
+-->

@@ -11,8 +11,8 @@
 | 포트폴리오 | [Click Me](https://rattle-eyelash-eaa.notion.site/a3771b6abf894b10acbdca70457e0031?v=507ae46b12b6446f8bde91faed2f09d8) | -->
 
 <div align="center">
-  <h3>Hi there, I am Dong-hyun Lee 🙋🏻‍♂️</h3>
-  <p>I'm interested in writing understandable codes and improvement of UX</p>
+  <h3>Hi there, I am Donghyun Lee 🙋🏻‍♂️</h3>
+  <p>I’m focused on code readability and UX improvement</p>
 
   <!--
   <div>
